@@ -1,0 +1,3 @@
+mi primera linea de codigo corregida
+Mi gata se llama Nina
+nueva linea de codigo con conflicto resuelto

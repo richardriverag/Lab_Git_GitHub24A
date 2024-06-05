@@ -1,0 +1,5 @@
+mi primera linea de codigo corregida
+Hola :D
+Nueva línea experimental ._.
+nueva linea de codigo de la rama master
+nueva␣linea␣de␣codigo␣en␣futuro_conflicto

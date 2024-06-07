@@ -1,0 +1,6 @@
+[submodule "primeros_pasos"]
+	path = primeros_pasos
+	url = https://github.com/francieltipantuna/primeros_pasos
+[submodule "ejercicio_francieltipantun"]
+	path = ejercicio_francieltipantun
+	url = https://github.com/francieltipantuna/primeros_pasos

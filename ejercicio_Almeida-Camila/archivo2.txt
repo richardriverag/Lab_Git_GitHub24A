@@ -1,0 +1,2 @@
+Este es un segundo archivo para practicar los commits :3
+Esta linea es para practicar los checkout

@@ -1,0 +1,3 @@
+mi primera linea de codigo corregida.
+Segunda linea de codigo.
+Nueva linea de codigo con conflicto resuelta.
